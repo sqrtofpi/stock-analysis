@@ -63,4 +63,5 @@ For both measures of success, refactoring the code maintained the accuracy of th
   **Disadvantages:** The primary disadvantage of refactoring code is that it could have unintended consequences for other programs or hardware that could potentially cause it to fault out or crash. There is also the cost associated with going through many lines of code and assuring the dependencies are not causing other unanticipated problems.
 
 - **How do these pros and cons apply to refactoring the original VBA script?**
+  
   With refactoring the original VBA script in this project, there was little risk as the code was only 131 lines of code in the refactored script. It is an isolated subroutine that only has a specific function meaning there are no other dependencies to consider and the time involved was not substantial and should yield time savings everytime it is used and especially if the dataset it much larger. 
