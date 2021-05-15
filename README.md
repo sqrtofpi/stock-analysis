@@ -13,11 +13,11 @@ The refactoring and performance evaluations analysis were performed by Scott Mac
 
 - Added line of code called tickerIndex to improve speed of the script by decreasing the number of loops performed:
 
-  ![](../../Module%201%20-%20Kickstarting%20with%20Excel/Module%201%20Challenge/Resources/VBA_Challenge_tickerIndex.png)
+  ![](https://github.com/sqrtofpi/stock-analysis/blob/e6eede0f0714b10f9c0481ccc15777cb054929d3/Resources/VBA_Challenge_tickerIndex.png)
 
 - Created additional buttons to easily compare original VBA script vs. refactored VBA script
 
-  ![](../../Module%201%20-%20Kickstarting%20with%20Excel/Module%201%20Challenge/Resources/VBA_Challenge_buttons.png)
+  ![](https://github.com/sqrtofpi/stock-analysis/blob/e6eede0f0714b10f9c0481ccc15777cb054929d3/Resources/VBA_Challenge_buttons.png)
 
 ## Results
 
@@ -30,21 +30,21 @@ When the VBA script was refactored, success of the project was gauged using 2 cr
 
 #### Original Results
 
-![](../../Module%201%20-%20Kickstarting%20with%20Excel/Module%201%20Challenge/Resources/VBA_Challenge_2017_Original.png)
+![](https://github.com/sqrtofpi/stock-analysis/blob/e6eede0f0714b10f9c0481ccc15777cb054929d3/Resources/VBA_Challenge_2017_Original.png)
 
 #### Refactored Results
 
-![](../../Module%201%20-%20Kickstarting%20with%20Excel/Module%201%20Challenge/Resources/VBA_Challenge_2017.png)
+![](https://github.com/sqrtofpi/stock-analysis/blob/e6eede0f0714b10f9c0481ccc15777cb054929d3/Resources/VBA_Challenge_2017.png)
 
 ### 2018 Data
 
 #### Original Results
 
-![](../../Module%201%20-%20Kickstarting%20with%20Excel/Module%201%20Challenge/Resources/VBA_Challenge_2018_Original.png)
+![](https://github.com/sqrtofpi/stock-analysis/blob/e6eede0f0714b10f9c0481ccc15777cb054929d3/Resources/VBA_Challenge_2018_Original.png)
 
 #### Refactored Results
 
-![](../../Module%201%20-%20Kickstarting%20with%20Excel/Module%201%20Challenge/Resources/VBA_Challenge_2018.png)
+![](https://github.com/sqrtofpi/stock-analysis/blob/e6eede0f0714b10f9c0481ccc15777cb054929d3/Resources/VBA_Challenge_2018.png)
 
 ### Analysis of Results
 
